@@ -1,3 +1,4 @@
-# csgo-Full-Cheat
+# Csgo-Full-Cheat
+## 参考元URL:
 
-[参考元URL:]((https://github.com/CowNowK/AimStar)https://github.com/CowNowK/AimStar)
+[参考元URL:]((https://github.com/CowNowK/AimStar)
